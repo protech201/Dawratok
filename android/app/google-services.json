@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527588754648",
+    "project_id": "dawratuk",
+    "storage_bucket": "dawratuk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527588754648:android:9f2fac69473c63196943ad",
+        "android_client_info": {
+          "package_name": "com.example.dawratok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527588754648-j6she72ola3h18lj884a45fd7tka4cei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1T3f-KIPJ7Z_LDZje1qHj1lIIfenq-rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527588754648-j6she72ola3h18lj884a45fd7tka4cei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
