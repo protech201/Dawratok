@@ -1,6 +1,9 @@
 # dawratok
 
-A new Flutter project.
+Dawratok
+
+![Dawratok mockup](https://user-images.githubusercontent.com/108319392/190515279-55f2214e-4495-46ae-82fd-dd77a4424021.jpg)
+
 
 ## Getting Started
 
